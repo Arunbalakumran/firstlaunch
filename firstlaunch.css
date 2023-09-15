@@ -1,0 +1,65 @@
+.left {
+    float: left;
+    width: 40%;
+}
+.right {
+    float: right;
+    width: 60%;
+}
+.row {
+    width: 1000px;
+    margin: auto;
+}
+
+.clear {
+    clear: both !important;
+}
+.aligncaption{
+    margin: auto;
+}
+.differenttypes{
+    display: flex;
+}
+.bg{
+    box-shadow: 0px 0px 10px #eee;
+}
+.alin{
+    text-align:center;
+    margin-right: 30px;
+}
+.secspace{
+    margin-top: 150px;
+}
+.bgimg{
+    background-color:rosybrown ;
+}
+.disp{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.btm{
+    display: flex;
+}
+.btmins{
+    margin-right: 10px;
+}
+.btmlst{
+    justify-content: space-between;
+}
+.marg{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.btnstrt{
+    margin-left: 300px;
+}
+.btmbgclr{
+    background: darkgrey;
+}
+.buttonclr{
+    background: blue;
+    color: white;
+    border-radius: 5px;
+}
